@@ -11,3 +11,6 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 [![Thumbnail](./thumbnails/general/001.png)](./general/001.png)
 [![Thumbnail](./thumbnails/general/002.png)](./general/002.png)
 [![Thumbnail](./thumbnails/general/003.png)](./general/003.png)
+
+# Recently Added
+[![Thumbnail](./thumbnail/art/pieter_bruegel-the_tower_of_babel.png)](./art/pieter_bruegel-the_tower_of_babel.png)

@@ -1,6 +1,3 @@
-# What is this repository?
-This is my collection of wallpapers in 4K resolution. 
-
 # Art
 Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 

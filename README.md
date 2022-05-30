@@ -13,4 +13,5 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 [![Thumbnail](./thumbnails/general/003.png)](./general/003.png)
 
 # Recently Added
-[![Thumbnail](./thumbnail/art/pieter_bruegel-the_tower_of_babel.png)](./art/pieter_bruegel-the_tower_of_babel.png)
+New wallpapers are automatically added in this section until sorted.<br/>
+[![Thumbnail](./thumbnails/art/pieter_bruegel-the_tower_of_babel.png)](./art/pieter_bruegel-the_tower_of_babel.png)

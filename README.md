@@ -15,4 +15,4 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 [![Thumbnail](./thumbnails/general/003.png)](./general/003.png)
 
 # Recently Added
-New wallpapers are automatically added in this section until sorted.
+New wallpapers are automatically added in this section until sorted.<br/>

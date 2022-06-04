@@ -16,3 +16,4 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 
 # Recently Added
 New wallpapers are automatically added in this section until sorted.<br/>
+[![Thumbnail](./thumbnails/art/domenico-the_rebuke_of_adam_and_eve.jpg)](./art/domenico-the_rebuke_of_adam_and_eve.png)

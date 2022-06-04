@@ -17,3 +17,5 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 # Recently Added
 New wallpapers are automatically added in this section until sorted.<br/>
 [![Thumbnail](./thumbnails/art/domenico-the_rebuke_of_adam_and_eve.jpg)](./art/domenico-the_rebuke_of_adam_and_eve.png)
+[![Thumbnail](./thumbnails/art/paul_rubens-the_fall_of_man.jpg)](./art/paul_rubens-the_fall_of_man.png)
+[![Thumbnail](./thumbnails/art/paul_rubens-samson_and_delilah.jpg)](./art/paul_rubens-samson_and_delilah.png)

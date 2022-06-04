@@ -7,6 +7,9 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 [![Thumbnail](./thumbnails/art/paul_rubens-the_fall_of_phaeton.jpg)](./art/paul_rubens-the_fall_of_phaeton.png)
 [![Thumbnail](./thumbnails/art/paul_rubens-achilles_discovered_by_ulysses.jpg)](./art/paul_rubens-achilles_discovered_by_ulysses.png)
 [![Thumbnail](./thumbnails/art/david-the_death_of_socrates.jpg)](./art/david-the_death_of_socrates.png)
+[![Thumbnail](./thumbnails/art/domenico-the_rebuke_of_adam_and_eve.jpg)](./art/domenico-the_rebuke_of_adam_and_eve.png)
+[![Thumbnail](./thumbnails/art/paul_rubens-the_fall_of_man.jpg)](./art/paul_rubens-the_fall_of_man.png)
+[![Thumbnail](./thumbnails/art/paul_rubens-samson_and_delilah.jpg)](./art/paul_rubens-samson_and_delilah.png)
 [![Thumbnail](./thumbnails/art/michelangelo-the_creation_of_adam.jpg)](./art/michelangelo-the_creation_of_adam.png)
 
 # General
@@ -16,6 +19,3 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 
 # Recently Added
 New wallpapers are automatically added in this section until sorted.<br/>
-[![Thumbnail](./thumbnails/art/domenico-the_rebuke_of_adam_and_eve.jpg)](./art/domenico-the_rebuke_of_adam_and_eve.png)
-[![Thumbnail](./thumbnails/art/paul_rubens-the_fall_of_man.jpg)](./art/paul_rubens-the_fall_of_man.png)
-[![Thumbnail](./thumbnails/art/paul_rubens-samson_and_delilah.jpg)](./art/paul_rubens-samson_and_delilah.png)

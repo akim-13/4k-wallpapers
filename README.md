@@ -10,6 +10,7 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 [![Thumbnail](./thumbnails/art/domenico-the_rebuke_of_adam_and_eve.jpg)](./art/domenico-the_rebuke_of_adam_and_eve.png)
 [![Thumbnail](./thumbnails/art/paul_rubens-the_fall_of_man.jpg)](./art/paul_rubens-the_fall_of_man.png)
 [![Thumbnail](./thumbnails/art/paul_rubens-samson_and_delilah.jpg)](./art/paul_rubens-samson_and_delilah.png)
+[![Thumbnail](./thumbnails/art/hermann_steinfurth-the_education_of_jupiter_on_mount_ida.jpg)](./art/hermann_steinfurth-the_education_of_jupiter_on_mount_ida.png)
 [![Thumbnail](./thumbnails/art/michelangelo-the_creation_of_adam.jpg)](./art/michelangelo-the_creation_of_adam.png)
 
 # General

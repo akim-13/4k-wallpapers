@@ -14,6 +14,8 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 [![Thumbnail](./thumbnails/art/ilya_repin-ivan_the_terrible_and_his_son_ivan.jpg)](./art/ilya_repin-ivan_the_terrible_and_his_son_ivan.png)
 [![Thumbnail](./thumbnails/art/abraham_janssens-jupiter_rebuked_by_venus.jpg)](./art/abraham_janssens-jupiter_rebuked_by_venus.png)
 [![Thumbnail](./thumbnails/art/michelangelo-the_creation_of_adam.jpg)](./art/michelangelo-the_creation_of_adam.png)
+[![Thumbnail](./thumbnails/art/raphael-the_school_of_athens.jpg)](./art/raphael-the_school_of_athens.png)
+[![Thumbnail](./thumbnails/art/sandro_botticell-the_birth_of_venus.jpg)](./art/sandro_botticell-the_birth_of_venus.png)
 
 # General
 [![Thumbnail](./thumbnails/general/001.jpg)](./general/001.png)

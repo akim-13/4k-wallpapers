@@ -16,6 +16,7 @@ Each image is named as follows: `<authors_name>-<title_of_the_work>.png`
 [![Thumbnail](./thumbnails/art/michelangelo-the_creation_of_adam.jpg)](./art/michelangelo-the_creation_of_adam.png)
 [![Thumbnail](./thumbnails/art/raphael-the_school_of_athens.jpg)](./art/raphael-the_school_of_athens.png)
 [![Thumbnail](./thumbnails/art/sandro_botticell-the_birth_of_venus.jpg)](./art/sandro_botticell-the_birth_of_venus.png)
+[![Thumbnail](./thumbnails/art/caspar_david_friedrich-wanderer_above_the_sea_of_fog.jpg)](./art/caspar_david_friedrich-wanderer_above_the_sea_of_fog.png)
 
 # General
 [![Thumbnail](./thumbnails/general/001.jpg)](./general/001.png)
